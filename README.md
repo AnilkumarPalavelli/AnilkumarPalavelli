@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
 
-This is Anilkumar Palavelli, I am pursuing my masters in Applied computer science from North west Missouri State University. I want to become a good software developer
+This is Anilkumar Palavelli, I am pursuing my masters in Applied computer science from North west Missouri State University. 
+I worked as Project Engineer in Wipro for six months.
+I want to become a good software developer.
+
+
+
 
 <!--
 **AnilkumarPalavelli/AnilkumarPalavelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
