@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f4c81,100:38bdf8&height=220&section=header&text=ANIL%20KUMAR%20PALAVELLI&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20Engineer%20%7C%20AI%20Developer%20%7C%20Python%20Engineer&descAlignY=59&descSize=17" width="100%" alt="Anil Kumar Palavelli banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f4c81,100:38bdf8&height=220&section=header&text=ANIL%20KUMAR%20PALAVELLI&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20Engineer%20%7C%20Python%20Engineer&descAlignY=59&descSize=17" width="100%" alt="AnilKumar Palavelli banner" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Intelligent+Computer+Vision+Systems;Turning+Visual+Data+Into+Insights;Exploring+AI%2C+Deep+Learning+%26+Research;Welcome+to+My+GitHub+Profile!" alt="Animated typing introduction" /></a>
 
@@ -44,7 +44,6 @@ Additional experience: **NumPy · Pandas · YOLO · Object Tracking · Image Qua
 
 ## 🚀 Featured Work & Project Areas
 
-> These are project areas from my experience and interests. Public repository links will be added as projects are published. Professional work is described at a high level to respect employer confidentiality.
 
 | Area | What I Work On | Technologies |
 |---|---|---|
