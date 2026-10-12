@@ -4,7 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Intelligent+Computer+Vision+Systems;Turning+Visual+Data+Into+Insights;Exploring+AI%2C+Deep+Learning+%26+Research;Welcome+to+My+GitHub+Profile!" alt="Animated typing introduction" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=AnilkumarPalavelli&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile views" />
+<!-- Visitor counter is provided by a third-party service; if unavailable, remove this line. -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AnilkumarPalavelli.AnilkumarPalavelli&left_color=%230D1117&right_color=%230284C7" alt="Profile visitor counter" />
 <img src="https://img.shields.io/github/followers/AnilkumarPalavelli?label=Followers&style=for-the-badge&color=0284c7" alt="GitHub followers" />
 
 </div>
