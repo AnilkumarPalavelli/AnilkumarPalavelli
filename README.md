@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Anil Kumar Palavelli**, a **Computer Vision Engineer and Python Developer** working at the intersection of AI, visual analytics, and real-world camera systems.
+I'm **AnilKumar Palavelli**, a **Computer Vision Engineer and Python Developer** working at the intersection of AI, visual analytics, and real-world camera systems.
 
 - 🔭 **Focus:** Computer vision, image quality analysis, object detection, tracking, and camera system validation
 - 🧠 **Interests:** Deep learning, intelligent video analytics, AI engineering, and applied research
