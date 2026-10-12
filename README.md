@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **AnilKumar Palavelli**, a **Computer Vision Engineer and Python Developer** working at the intersection of AI, visual analytics, and real-world camera systems.
+I'm **Anil Kumar Palavelli**, a **Computer Vision Engineer and Python Developer** working at the intersection of AI, visual analytics, and real-world camera systems.
 
 - 🔭 **Focus:** Computer vision, image quality analysis, object detection, tracking, and camera system validation
 - 🧠 **Interests:** Deep learning, intelligent video analytics, AI engineering, and applied research
@@ -31,7 +31,7 @@ I'm **AnilKumar Palavelli**, a **Computer Vision Engineer and Python Developer**
 
 **AI, Vision & Data**
 
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" alt="AI and data tools" />
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn&theme=dark" alt="AI and data tools" />
 
 **Cloud, Infrastructure & Development**
 
@@ -39,7 +39,7 @@ I'm **AnilKumar Palavelli**, a **Computer Vision Engineer and Python Developer**
 
 </div>
 
-Additional experience: **YOLO · Object Tracking · Image Quality Assessment (IQA) · OCR · RTSP · FFmpeg · SQL · Camera Calibration · Data Analysis**
+Additional experience: **NumPy · Pandas · YOLO · Object Tracking · Image Quality Assessment (IQA) · OCR · RTSP · FFmpeg · SQL · Camera Calibration · Data Analysis**
 
 ## 🚀 Featured Work & Project Areas
 
@@ -62,7 +62,8 @@ Additional experience: **YOLO · Object Tracking · Image Quality Assessment (IQ
 
 <img src="https://streak-stats.demolab.com?user=AnilkumarPalavelli&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilkumarPalavelli&bg_color=0d1117&color=38bdf8&line=0284c7&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
+<!-- The previous activity-graph service returned an invalid response. This summary card is an alternative. -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnilkumarPalavelli&theme=tokyonight" width="95%" alt="GitHub profile activity summary" />
 
 </div>
 
