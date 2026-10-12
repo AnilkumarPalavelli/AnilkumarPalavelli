@@ -74,7 +74,12 @@ Additional experience: **NumPy · Pandas · YOLO · Object Tracking · Image Qua
 
 <a href="https://github.com/AnilkumarPalavelli"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <!-- Replace the placeholder below with your actual LinkedIn URL, then remove this comment. -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (update link)" /></a>
+<a href="https://www.linkedin.com/in/anilpalavelli/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 <!-- Replace the placeholder below after your portfolio goes live. -->
 <a href="https://YOUR-PORTFOLIO-URL.com"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio (update link)" /></a>
 
